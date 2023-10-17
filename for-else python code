@@ -1,0 +1,6 @@
+countrylist=["india","austrila","nepal","america"]
+for item in countrylist:
+      print(item);
+else
+      print(all atoms are accessed)
+print("Good Bye......")        
